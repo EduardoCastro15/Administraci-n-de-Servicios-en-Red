@@ -1,0 +1,2 @@
+Denegar a los dispositivos pertenecientes al área de Alumnos la salida a internet.
+
